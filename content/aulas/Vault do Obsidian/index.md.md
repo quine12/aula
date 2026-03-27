@@ -1,15 +1,17 @@
+Índice
+==
+
+Conceitos fundamentais: [[Igualdade]];[[Neutralidade]];[[Conjuntos numéricos]]
+
+Operações:[[Produto]];[[Básicos da Divisão]]
+	
+Operacionalizando:
+
+[[Multiplicar e dividir por 1]]; 	[[Somando divisões]];	[[Divisão de Divisão]]
 
 
-[[Igualdade]]
-[[Neutralidade]]
-[[Conjuntos numéricos]]
+[[Escala Decimal]]
+	[[Multiplicação de Decimais]]
+		[[Divisão de Decimais]]
 
-[[Produto]]
-	[[Multiplicar e dividir por 1]]	
-
-[[Básicos da Divisão]]
-		[[Escala Decimal]]
-			[[Multiplicação de Decimais]]
-			[[Divisão de Decimais]]
-	[[Divisão de Divisão]]
-	[[Somando divisões]]
+	
