@@ -1,0 +1,51 @@
+{
+	"nodes":[
+		{"id":"f374fc965e44f754","type":"group","x":-502,"y":-1429,"width":1168,"height":761,"color":"3","label":"Operações Básicas"},
+		{"id":"645924fc998a4d92","type":"group","x":-1100,"y":-1720,"width":736,"height":370,"color":"#843939","label":"Operando Divisões"},
+		{"id":"231631b15bb7a0ca","type":"group","x":-668,"y":-700,"width":643,"height":218,"label":"Operando a Multiplicação"},
+		{"id":"d6ada08880658020","type":"group","x":-25,"y":-1280,"width":225,"height":260,"color":"1","label":"Fundamentos"},
+		{"id":"eb442dc0c1f6ef4b","type":"text","text":"[[Multiplicar e dividir por 1]]","x":-1046,"y":-1065,"width":250,"height":60},
+		{"id":"a897c3a6f16ffa99","type":"text","text":"[[Divisão de Divisão]]","x":-1029,"y":-1564,"width":180,"height":60},
+		{"id":"09008f555e8e6e81","type":"text","text":"[[Multiplicação de Decimais]]","x":-730,"y":-1700,"width":139,"height":50},
+		{"id":"ae3a58029ca51813","type":"text","text":"[[Divisão de Decimais]]","x":-1008,"y":-1700,"width":139,"height":50},
+		{"id":"9d73c10196b2d896","type":"text","text":"[[Escala Decimal]]","x":-749,"y":-1504,"width":178,"height":55},
+		{"id":"21dfcd3758481185","type":"text","text":"[[Somando divisões]]","x":-1106,"y":-1434,"width":196,"height":50},
+		{"id":"7492c96a78b13cbc","type":"text","text":"<p style=\"font-size:50px\">Divisão<p>","x":-482,"y":-1409,"width":307,"height":108},
+		{"id":"2f263a33634f1ad7","type":"text","text":"<p style=\"font-size:50px\">Subtração<p>","x":338,"y":-1409,"width":307,"height":112},
+		{"id":"09706801ca690c4b","type":"text","text":"Soma","x":339,"y":-800,"width":307,"height":112},
+		{"id":"f73b77fba120fb1c","type":"text","text":"<p style=\"font-size:40px\">Inversão</p>","x":397,"y":-1100,"width":189,"height":80},
+		{"id":"7fa916614c93ebab","type":"text","text":"<p style=\"font-size:50px\">Soma<p>","x":338,"y":-810,"width":307,"height":112,"color":"2"},
+		{"id":"9c99f8a0a1b06c3a","type":"text","text":"<p style=\"font-size:50px\">Produto<p>","x":-481,"y":-810,"width":307,"height":112,"color":"2"},
+		{"id":"c3d4012a1f199a28","type":"text","text":"<p style=\"font-size:40px\">Inversão</p>","x":-423,"y":-1100,"width":189,"height":80},
+		{"id":"61478a51e8ce436f","type":"text","text":"[[Produto]]","x":-284,"y":-810,"width":110,"height":57},
+		{"id":"820fb54f2cd3268d","type":"text","text":"[[Básicos da Divisão]]","x":-292,"y":-1355,"width":117,"height":50},
+		{"id":"a084d6632dbd851a","type":"text","text":"Propriedade Associativa","x":-648,"y":-556,"width":204,"height":54},
+		{"id":"fd48f418e149f056","type":"text","text":"Propriedade Distributiva","x":-264,"y":-552,"width":219,"height":50},
+		{"id":"c784b198dc62dbff","type":"text","text":"[[Neutralidade]]","x":-5,"y":-1183,"width":185,"height":50},
+		{"id":"c338bbccd7b0445a","type":"text","text":"[[Igualdade]]","x":-4,"y":-1260,"width":185,"height":57},
+		{"id":"9d762026007abab4","type":"text","text":"Só há duas operações","x":-46,"y":-870,"width":269,"height":70},
+		{"id":"21e73b4ddbe9fbfd","x":-4,"y":-1120,"width":184,"height":60,"type":"text","text":"[[Conjuntos numéricos]]"}
+	],
+	"edges":[
+		{"id":"312fbb5cc8221dd6","fromNode":"9c99f8a0a1b06c3a","fromSide":"top","toNode":"7492c96a78b13cbc","toSide":"bottom"},
+		{"id":"aac2f8f787d02a40","fromNode":"7fa916614c93ebab","fromSide":"top","toNode":"2f263a33634f1ad7","toSide":"bottom"},
+		{"id":"e4b89aabb2477b22","fromNode":"9d762026007abab4","fromSide":"right","toNode":"09706801ca690c4b","toSide":"top"},
+		{"id":"5e443dc0df93cfc2","fromNode":"9d762026007abab4","fromSide":"left","toNode":"9c99f8a0a1b06c3a","toSide":"top"},
+		{"id":"d6c4a913262bb100","fromNode":"7fa916614c93ebab","fromSide":"left","toNode":"9c99f8a0a1b06c3a","toSide":"right"},
+		{"id":"59fe6e8b634d1d52","fromNode":"c784b198dc62dbff","fromSide":"right","toNode":"f73b77fba120fb1c","toSide":"left"},
+		{"id":"72823d1b061e81ef","fromNode":"c784b198dc62dbff","fromSide":"left","toNode":"c3d4012a1f199a28","toSide":"right"},
+		{"id":"42fb26eb33eb3a47","fromNode":"a897c3a6f16ffa99","fromSide":"top","toNode":"ae3a58029ca51813","toSide":"bottom"},
+		{"id":"8f39009b2795fc5c","fromNode":"7492c96a78b13cbc","fromSide":"left","toNode":"9d73c10196b2d896","toSide":"bottom"},
+		{"id":"866f539713cb1784","fromNode":"7492c96a78b13cbc","fromSide":"left","toNode":"a897c3a6f16ffa99","toSide":"bottom"},
+		{"id":"1972cecaaff292da","fromNode":"eb442dc0c1f6ef4b","fromSide":"top","toNode":"21dfcd3758481185","toSide":"bottom"},
+		{"id":"00efd0b960757c3a","fromNode":"9d73c10196b2d896","fromSide":"left","toNode":"ae3a58029ca51813","toSide":"right"},
+		{"id":"8fb0800f3816e2c3","fromNode":"9d73c10196b2d896","fromSide":"top","toNode":"09008f555e8e6e81","toSide":"bottom"},
+		{"id":"f043f7779160c9f3","fromNode":"7492c96a78b13cbc","fromSide":"left","toNode":"21dfcd3758481185","toSide":"right"},
+		{"id":"852b1bb319f0c141","fromNode":"61478a51e8ce436f","fromSide":"bottom","toNode":"fd48f418e149f056","toSide":"top"},
+		{"id":"a9867ebc01440221","fromNode":"61478a51e8ce436f","fromSide":"bottom","toNode":"a084d6632dbd851a","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
