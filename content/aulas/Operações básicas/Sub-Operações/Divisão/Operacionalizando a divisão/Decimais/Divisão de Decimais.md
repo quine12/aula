@@ -28,17 +28,19 @@ $$\frac{X}{Y}=\frac{a}{b\cdot c}\cdot d=\frac{a\cdot d}{b\cdot c}$$
 
   $$\frac{0.4}{0.08}$$
 
-  1. Primeiro convertemos os valores de notação decimal para notação de fração.
+Primeiro convertemos os valores de notação decimal para notação de fração.
 
-     $$0.4=\frac{4}{10}$$
+$$0.4=\frac{4}{10}$$
 
-     $$\frac{0.4}{0.08}=\frac{4}{10\cdot 0.08}$$
+$$\frac{0.4}{0.08}=\frac{4}{10\cdot 0.08}$$
 
-     $$0.08=\frac{8}{100}$$
+$$0.08=\frac{8}{100}$$
 
-     $$\frac{4}{10\cdot0.08}=\frac{4}{\frac{10\cdot8}{100}}=\frac{4}{10\cdot8}\cdot100=\frac{4\cdot100}{8\cdot10}$$
+$$\frac{4}{10\cdot0.08}=\frac{4}{\frac{10\cdot8}{100}}=\frac{4}{10\cdot8}\cdot100=\frac{4\cdot100}{8\cdot10}$$
 
-     2. Em seguida agrupamos e simplificamos os múltiplos de 10
-        $$\frac{4\cdot100}{8\cdot10}=\frac{4\cdot10}{8}\cdot\frac{10}{10}=\frac{4\cdot10}{8}\cdot1=\frac{40}{8}=\frac{10}{2}\cdot\frac{4}{4}=\frac{10}{2}\cdot1=5$$
-    3. Esta operação não resultou em decimais, mas é de bom tom caso fôssemos utilizar esse valor em outras operações notar os algarismos significativos, nesse caso, 2 algarismos após a vírgula (por causa do 0,08). Logo, a resposta mais adequada é 5,00.
+2. Em seguida agrupamos e simplificamos os múltiplos de 10
+
+$$\frac{4\cdot100}{8\cdot10}=\frac{4\cdot10}{8}\cdot\frac{10}{10}=\frac{4\cdot10}{8}\cdot1=\frac{40}{8}=\frac{10}{2}\cdot\frac{4}{4}=\frac{10}{2}\cdot1=5$$
+
+Esta operação não resultou em decimais, mas é de bom tom caso fôssemos utilizar esse valor em outras operações notar os algarismos significativos, nesse caso, 2 algarismos após a vírgula (por causa do 0,08). Logo, a resposta mais adequada é 5,00.
   

@@ -23,15 +23,21 @@ Ou seja, se você realiza uma operação entre um número com 2 algarismos decim
 
   3- Realizamos a multiplicação para aglutinar os valores no numerador e denominador
  
+
   $$23\cdot425=(2\cdot10+3)\cdot425=2\cdot(10\cdot425)+3\cdot425=8500+1275=9775$$
+
 
   $$100\cdot1000=100000$$
 
+
   $$\frac{(23\cdot425)}{100\cdot1000}=\frac{9775}{100000}$$
+
 
   4- Como 9775 não tem múltiplos de 10, não é necessário explicitar os fatores 10.
 
+
   5- Converta de volta para decimal. 
+
 
   $$\frac{9775}{100000}=0,09775$$
 
