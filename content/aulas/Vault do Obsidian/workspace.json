@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "e7b2e3faad1647b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3bdd3f043d7969d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c352700e0f2ff6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af9426f5a3ce8fdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2da72e09977c3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b2d3ea625b08b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e9b1a420c4db490",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f6e2b2985a4f58e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "700cfa421b905085",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dfd519ab2a3cd02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6e6440dd367daf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "aulas/Operações básicas/Sub-Operações/Untitled 1/Divisão.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Divisão"
+            }
+          },
+          {
+            "id": "e882f8b88dd04afe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "aulas/Operações básicas/Sub-Operações/Untitled 1/Divisão.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Divisão"
+            }
+          },
+          {
+            "id": "a2a0a094e402963b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98109ff6090a9cd3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "152ce8a51ba2ce6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "aulas/Operações básicas/Sub-Operações/Untitled 1/Divisão.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Divisão"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f0b2d3ea625b08b6",
+  "lastOpenFiles": [
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão/Decimais/Divisão de Decimais.md",
+    "Comece aqui.md",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão/Somando divisões.md",
+    "Operações.canvas",
+    "aulas/Fundamentos/Conjuntos numéricos.md",
+    "aulas/Welcome.md",
+    "aulas/Operações básicas/Produto/Produto.md",
+    "aulas/Operações básicas/Multiplicar e dividir por 1.md",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Básicos da Divisão.md",
+    "aulas/Operações básicas/Produto/Produto.canvas",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão/Decimais/Escala Decimal.md",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão/Decimais/Multiplicação de Decimais.md",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Divisão de Divisão.md",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão/Operacionalizando divisão.md",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão/Decimais/Operações com Decimais.md",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão/Decimais/Soma de Decimais.md",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão/Decimais",
+    "aulas/Operações básicas/Sub-Operações/Divisão/Operacionalizando a divisão",
+    "aulas/Fundamentos/Neutralidade.md",
+    "aulas/Fundamentos/Igualdade.md"
+  ]
+}
