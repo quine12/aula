@@ -7,16 +7,22 @@ Há duas operações básicas necessárias para definir todas as outras. Há dua
 Para a Soma, o elemento neutro é o 0. Some qualquer algo a 0 e esse algo não se altera.
 
 $$a+0=a$$
+
 $$1+0=1$$
+
 Para o [[Produto]], a multiplicação, o elemento neutro é o um (1). Multiplique qualquer algo por um e esse algo não se altera
 
 $$a*1=a$$
+
 $$4*1=4$$
 
 E, a partir desses elementos neutros, se define novas operações as operações inversas. Operações inversas são aquelas que, quando feitas sob o mesmo valor retornam o elemento neutro.
 Para a soma, o inverso é a Subtração;
+
 $$a+(-a)=a-a=-a+a=0$$
-Para a multiplicação, o inverso é a [[Básicos da Divisão]].
+
+Para a multiplicação, o inverso é a  Divisão, veja [[Básicos da Divisão]].
+
 $$b\cdot\frac{1}{b}=\frac{b}{b}=\frac{1}{b}\cdot b=1$$
 
 **Dividir é multiplicar, multiplicar é dividir.**
